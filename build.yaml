@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: sparkfun_pro_micro_rp2040
-    shield: boardsource3x4
+  - board: adafruit_qt_py_rp2040
+    shield: romac_plus
